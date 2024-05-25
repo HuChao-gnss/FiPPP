@@ -1,0 +1,5 @@
+"D:\SoftWare\CLion 2022.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/SoftWare/CLion 2022.3.1/bin/ninja/win/ninja.exe" -G Ninja -S D:\FiPPP -B D:\FiPPP\cmake-build-debug-tdm_gcc103
+D:/FiPPP/src/CommandLine/getopt.hD:/FiPPP/src/EstimateBias/EstimateBias.hD:/FiPPP/src/EstimateBias/blaswrap.hD:/FiPPP/src/EstimateBias/clapack.hD:/FiPPP/src/EstimateBias/f2c.hD:/FiPPP/src/FiPPPSolver/CMakeLists.txtD:/FiPPP/src/FiPPPSolver/FiPPPSolver.cppD:/FiPPP/src/FiPPPSolver/FiPPPSolver.hppD:/FiPPP/src/Utilities/gpstkplatform.h
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/FiPPP/cmake-build-debug-tdm_gcc103

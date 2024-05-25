@@ -1,0 +1,4 @@
+D:/240506/2/cmake-build-debug-tdm_gcc103 filter=lfs diff=lfs merge=lfs -text
+*cmake-build-debug-tdm_gcc103 filter=lfs diff=lfs merge=lfs -text
+libFiPPP.a filter=lfs diff=lfs merge=lfs -text
+FiPPPSolver.exe filter=lfs diff=lfs merge=lfs -text

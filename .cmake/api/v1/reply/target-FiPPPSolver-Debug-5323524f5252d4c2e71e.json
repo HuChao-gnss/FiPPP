@@ -1,0 +1,351 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "src/FiPPPSolver/FiPPPSolver.exe"
+		},
+		{
+			"path" : "src/FiPPPSolver/FiPPPSolver.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"install",
+			"target_link_directories",
+			"target_link_libraries",
+			"add_definitions",
+			"include_directories",
+			"include"
+		],
+		"files" : 
+		[
+			"src/FiPPPSolver/CMakeLists.txt",
+			"CMakeLists.txt",
+			"BuildSetup.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 9,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 65,
+				"parent" : 6
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 22,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 29,
+				"parent" : 6
+			},
+			{
+				"command" : 6,
+				"file" : 1,
+				"line" : 33,
+				"parent" : 6
+			},
+			{
+				"file" : 2,
+				"parent" : 10
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 164,
+				"parent" : 11
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 55,
+				"parent" : 6
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-std=c++11 -g -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "GNU"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "WIN32"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "D:/FiPPP/./third_party"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "D:/FiPPP/cmake-build-debug-tdm_gcc103/generated"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/CommandLine"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/EstimateBias"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/FiPPPSolver"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/Utilities"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/AppFrame"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/ClockModel"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/FileDirProc"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/FileHandling"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/FileHandling/RINEX"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/FileHandling/RINEX3"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/FileHandling/SINEX"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/FileHandling/SP3"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/GNSSCore"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/GNSSEph"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/Geodynamics"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/Geomatics"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/Math"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/Math/Matrix"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/Math/Vector"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/ProceFrame"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/RefTime"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "D:/FiPPP/src/TimeHandling"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "FiPPP::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "FiPPPSolver::@40b788f8413e3ecb73cb",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 2,
+				"path" : "bin"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "C:/Program Files (x86)/FiPPP"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-std=c++11 -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,--stack,1600000000",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-LD:\\FiPPP\\src\\FiPPPSolver\\..\\..\\third_party\\CLAPACKlib\\lapacklib",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-LD:\\FiPPP\\third_party\\CLAPACKlib\\lapacklib",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-lblas",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-llapack",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "libFiPPP.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-lblas",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-llapack",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "FiPPPSolver",
+	"nameOnDisk" : "FiPPPSolver.exe",
+	"paths" : 
+	{
+		"build" : "src/FiPPPSolver",
+		"source" : "src/FiPPPSolver"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/FiPPPSolver/FiPPPSolver.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "src/FiPPPSolver/FiPPPSolver.hpp",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}
